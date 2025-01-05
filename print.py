@@ -1,2 +1,2 @@
-word = 'sholem'
+word = 'ahalan'
 print(word)
